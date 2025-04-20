@@ -5,4 +5,4 @@ Install dengan
 - Pilih booksource
 - Tekan ok
 
-daftar booksource yg tersedia [](List.md)
+daftar booksource yg tersedia [disini](List.md)
