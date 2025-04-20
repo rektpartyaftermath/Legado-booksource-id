@@ -1,0 +1,1 @@
+[NovelRingan](https://intradeus.github.io/http-protocol-redirector?r=legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/Booksource/NovelRingan/bookSource.json)  

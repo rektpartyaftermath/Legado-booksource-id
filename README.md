@@ -1,8 +1,8 @@
 # Legado booksource collection
-How to install all :
+Install dengan
 
-- Click this [link](https://intradeus.github.io/http-protocol-redirector?r=legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json)
-- Choose booksource you want.
-- Press ok.
+- Klik [link](https://intradeus.github.io/http-protocol-redirector?r=legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json)
+- Pilih booksource
+- Tekan ok
 
-List of all booksource is [here](List.md)
+daftar booksource yg tersedia [](List.md)
